@@ -1,0 +1,7 @@
+{
+  "name": "seg",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
